@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Babli Wadhwa</h1>
-<h3 align="center">Right now I'm Learning everything from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif”>
+<h3 align="center">Right now I'm Learning everything , I'm from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babliwadhwa&label=Profile%20views&color=0e75b6&style=flat" alt="babliwadhwa" /> </p>
-
-- 🌱 I’m currently learning **React Native**
-
+- 👀 I’m interested in developing tech skills**
+- 🌱 I’m currently learning **Python, Rstudio, SQL**
+- 💞️ I’m looking to collaborate with -- Data Scientists and enthusiasts
 - 📫 How to reach me **babliwadhwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
